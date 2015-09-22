@@ -1,14 +1,11 @@
 {
-  "name": "picosec-security-experimental",
+  "name": "nqm-capability",
   "version": "0.0.1",
   "scripts": {},
-  "engines": {
-    "iojs": "1.8.x"
-  },
   "dependencies": {
     "buffertools": "^2.1.2",
     "hexy": "^0.2.7",
-    "ecdh": "git://github.com/picosec/ecdh.git",
-    "jsbn": "git://github.com/picosec/jsbn.git"
+    "ecdh": "git://github.com/nqminds/ecdh.git",
+    "jsbn": "git://github.com/nqminds/jsbn.git"
   }
 }
